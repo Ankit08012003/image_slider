@@ -23,7 +23,6 @@ function prevSlide() {
   }
 }
 
-/* 🔥 REAL SLIDING */
 slider.addEventListener("input", () => {
   let value = slider.value;
 
